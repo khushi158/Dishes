@@ -1,0 +1,25 @@
+.alldish{
+    border-radius: 2px solid green;
+    
+    
+}
+.imgDish{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    padding: 40px;
+    box-shadow: rgba(80, 80, 129, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    background-color:white;
+}
+.dish{
+    display: flex;
+    flex-direction: row;
+    border: 2px solid black;
+    gap: 20px;
+    align-items: center;
+    padding: 50px;
+    justify-content: space-between;
+    background-color:beige;
+    
+    
+}
